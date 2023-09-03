@@ -33,7 +33,7 @@ button {
   width: 650px;
   height: 400px;
   position: absolute;
-  transition: 0.5s all;
+  /* transition: 0.5s all; */
   left: 0;
   top: 0;
 }
